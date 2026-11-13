@@ -1,0 +1,7 @@
+workflow_id,batch_id,total_leads,yet_to_reach_out,in_progress_telephony_failed,in_progress_dialed,completed
+motor_renewal,batch_001,389,106,7,105,171
+motor_renewal,batch_002,326,86,5,102,133
+motor_renewal,batch_003,236,68,5,60,103
+policy_feedback,batch_001,356,93,7,102,154
+policy_feedback,batch_002,344,99,9,98,138
+policy_feedback,batch_003,241,60,5,59,117
